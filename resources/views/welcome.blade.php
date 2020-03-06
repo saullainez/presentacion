@@ -49,19 +49,27 @@
   </nav>
 
   <!-- Header -->
-  <header class="masthead">
+  <header class="masthead" style="background-image: url({{ asset('img/image.jpg') }})">
     <div class="container">
-      <div class="intro-text">
-        <div class="intro-lead-in">Welcome To Our Studio!</div>
-        <div class="intro-heading text-uppercase">It's Nice To Meet You</div>
-        <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">Tell Me More</a>
+      <div class="intro-text" style="padding-top: 225px !important;">
+        <div class="intro-lead-in" style="font-size: 60px; margin-bottom: 95px !important;">¡Bienvenidos a nuestro colectivo!</div>
+        <!--<div style="font-size: 60px;" class="intro-heading text-uppercase"><a href="#team" style="color:#bd5d38 !important;">¡Bienvenidos a nuestro colectivo!</a></div>-->
+        <div class="row">
+            <div class="col-xl-6 col-lg-6 .col-md-6 col-sm-12">
+                <a style="margin-bottom: 10px;" class="p-boton btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#portfolio" style="background-color: #cea71b !important;">Portafolio</a>
+            </div>
+            <div class="col-xl-6 col-lg-6 .col-md-6 col-sm-12">
+                <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#team" style="background-color: #cea71b !important;">Conoce a nuestro equipo</a>
+            </div>
+        </div>
+
       </div>
     </div>
   </header>
 
 
   <!-- Portfolio Grid -->
-  <section class="bg-light page-section" id="portfolio">
+  <section style="padding-bottom: 0px;" class="bg-light page-section" id="portfolio">
     <div class="container">
       <div class="row">
         <div class="col-lg-12 text-center">
@@ -169,20 +177,26 @@
       <div class="row">
         <div class="col-sm-4">
           <div class="team-member">
-            <img class="mx-auto rounded-circle" src="img/team/3.jpg" alt="">
-            <h4>Gerardo Méndez</h4>
+            <a style="color:#bd5d38 !important;" href="{{ route('saul') }}">
+                <img class="mx-auto rounded-circle" src="img/team/3.jpg" alt="">
+                <h4>Gerardo Méndez</h4>
+            </a>
           </div>
         </div>
         <div class="col-sm-4">
           <div class="team-member">
-            <img class="mx-auto rounded-circle" src="img/team/1.jpg" alt="">
-            <h4>Oscar Camarena</h4>
+            <a style="color:#bd5d38 !important;" href="{{ route('saul') }}">
+                <img class="mx-auto rounded-circle" src="img/team/1.jpg" alt="">
+                <h4>Oscar Camarena</h4>
+            </a>
           </div>
         </div>
         <div class="col-sm-4">
           <div class="team-member">
-            <img class="mx-auto rounded-circle" src="img/team/2.jpg" alt="">
-            <a href="{{ route('saul') }}"><h4>Saúl Laínez</h4></a>
+            <a style="color:#bd5d38 !important;" href="{{ route('saul') }}">
+                <img class="mx-auto rounded-circle" src="img/team/2.jpg" alt="">
+                <h4>Saúl Laínez</h4>
+            </a>
           </div>
         </div>
       </div>
