@@ -232,7 +232,7 @@
               <div class="modal-body">
                 <!-- Project Details Go Here -->
                 <h2 class="text-uppercase">Duendes de la Meganavidad</h2>
-                <p class="item-intro text-muted"><a href="https://meganavidad.com">https://meganavidad.com</a></p>
+                <p class="item-intro text-muted"><a href="https://meganavidad.com" class="text-dark">https://meganavidad.com</a></p>
                 <img class="img-fluid d-block mx-auto" src="img/portfolio/01-full.jpg" alt="">
                 <p>
                   Sistema de fidelización para recolección de facturas con las que el cliente podía, 
@@ -270,7 +270,7 @@
               <div class="modal-body">
                 <!-- Project Details Go Here -->
                 <h2 class="text-uppercase">Promo Valvoline HN</h2>
-                <p class="item-intro text-muted"><a href="https://promovalvoline.hn">https://promovalvoline.hn</a></p>
+                <p class="item-intro text-muted"><a href="https://promovalvoline.hn" class="text-dark">https://promovalvoline.hn</a></p>
                 <img class="img-fluid d-block mx-auto" src="img/portfolio/02-full.jpg" alt="">
                 <p>
                   Sistema de fidelización para ingreso de códigos con el objetivo de generar ganadores automáticamente.
@@ -308,14 +308,15 @@
               <div class="modal-body">
                 <!-- Project Details Go Here -->
                 <h2 class="text-uppercase">Promo Valvoline CR</h2>
-                <p class="item-intro text-muted"><a href="https://promovalvoline.com">https://promovalvoline.com</a></p>
+                <p class="item-intro text-muted"><a href="https://promovalvoline.com" class="text-dark">https://promovalvoline.com</a></p>
                 <img class="img-fluid d-block mx-auto" src="img/portfolio/03-full.jpg" alt="">
                 <p>
-                  Sistema de fidelización para ingreso de códigos con el objetivo 
-                  Cuenta con un administrador para ver estadísticas.
+                  Sistema de fidelización para ingreso de códigos con el objetivo de generar 
+                  ganadores de varios premios en base a los códigos ingresados.
+                  Cuenta con un administrador para ver estadísticas y generador de ganadores.
                 </p>
                 <ul class="list-inline">
-                <li>Año: 2019</li>
+                  <li>Año: 2019</li>
                   <li>Cliente: Valvoline, Costa Rica</li>
                   <li>Categoría: Fidelidad</li>
                 </ul>
@@ -344,18 +345,23 @@
             <div class="col-lg-8 mx-auto">
               <div class="modal-body">
                 <!-- Project Details Go Here -->
-                <h2 class="text-uppercase">Project Name</h2>
-                <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                <h2 class="text-uppercase">Valvoline Conoce</h2>
+                <p class="item-intro text-muted"><a href="https://valvolineconoce.com" class="text-dark">https://valvolineconoce.com</a></p>
                 <img class="img-fluid d-block mx-auto" src="img/portfolio/04-full.jpg" alt="">
-                <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                <p>
+                  Sistema de fidelidad cuyo objetivo es que el usuario ingrese códigos con la cantidad de productos de la marca que compraron.
+                  Los códigos en este caso son predefinidos para cada presentación del producto de la marca.
+                  Al ingresar los códigos obtienen "galones" que les permite canjear premios dentro de la plataforma.
+                  Adicional, tiene un administrador para ingreso de requisitos de sistema y estadísticas.
+                </p>
                 <ul class="list-inline">
-                  <li>Date: January 2017</li>
-                  <li>Client: Lines</li>
-                  <li>Category: Branding</li>
+                  <li>Año: 2019</li>
+                  <li>Cliente: Valvoline, Costa Rica</li>
+                  <li>Categoría: Fidelidad</li>
                 </ul>
                 <button class="btn btn-primary" data-dismiss="modal" type="button">
                   <i class="fas fa-times"></i>
-                  Close Project</button>
+                  Cerrar</button>
               </div>
             </div>
           </div>
@@ -378,18 +384,21 @@
             <div class="col-lg-8 mx-auto">
               <div class="modal-body">
                 <!-- Project Details Go Here -->
-                <h2 class="text-uppercase">Project Name</h2>
-                <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                <h2 class="text-uppercase">Promociones La Colonia</h2>
+                <p class="item-intro text-muted"><a href="http://acatequeremos.com" class="text-dark">http://acatequeremos.com</a></p>
                 <img class="img-fluid d-block mx-auto" src="img/portfolio/05-full.jpg" alt="">
-                <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                <p>
+                  Sitio web para mostrar las promociones de un supermercado. 
+                  El trabajo de este sitio fue reconstruir y mejorar el código, además de revestirlo con varias promociones.
+                </p>
                 <ul class="list-inline">
-                  <li>Date: January 2017</li>
-                  <li>Client: Southwest</li>
-                  <li>Category: Website Design</li>
+                  <li>Año: 2018-2019</li>
+                  <li>Cliente: La Colonia, Honduras</li>
+                  <li>Categoría: Informativa</li>
                 </ul>
                 <button class="btn btn-primary" data-dismiss="modal" type="button">
                   <i class="fas fa-times"></i>
-                  Close Project</button>
+                  Cerrar</button>
               </div>
             </div>
           </div>
@@ -412,18 +421,21 @@
             <div class="col-lg-8 mx-auto">
               <div class="modal-body">
                 <!-- Project Details Go Here -->
-                <h2 class="text-uppercase">Project Name</h2>
-                <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                <h2 class="text-uppercase">Yoga Summit Copán</h2>
+                <p class="item-intro text-muted"><a href="https://yogasummitcopan.com/" class="text-dark">https://yogasummitcopan.com/</a></p>
                 <img class="img-fluid d-block mx-auto" src="img/portfolio/06-full.jpg" alt="">
-                <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                <p>
+                  Sitio web informativo para un evento realizado en las Ruinas de Copán, Honduras. 
+                  El trabajo realizado fue construir la estructura y aplicar un diseño en la misma.
+                </p>
                 <ul class="list-inline">
-                  <li>Date: January 2017</li>
-                  <li>Client: Window</li>
-                  <li>Category: Photography</li>
+                  <li>Año: 2019</li>
+                  <li>Cliente: Yoga Summit, Honduras</li>
+                  <li>Categoría: Informativa</li>
                 </ul>
                 <button class="btn btn-primary" data-dismiss="modal" type="button">
                   <i class="fas fa-times"></i>
-                  Close Project</button>
+                  Cerrar</button>
               </div>
             </div>
           </div>

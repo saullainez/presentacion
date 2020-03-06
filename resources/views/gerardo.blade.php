@@ -8,7 +8,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>Saúl Laínez</title>
+  <title>Gerardo Méndez</title>
 
   <!-- Bootstrap core CSS -->
   <link href="{{ asset('vendor/bootstrap/css/bootstrap.min.css') }}" rel="stylesheet">
@@ -27,9 +27,9 @@
 
   <nav style="background-color: #212529 !important;" class="navbar navbar-expand-lg navbar-dark fixed-top" id="sideNav">
     <a class="navbar-brand js-scroll-trigger" href="#page-top">
-      <span class="d-block d-lg-none">Saúl Laínez</span>
+      <span class="d-block d-lg-none">Gerardo Méndez</span>
       <span class="d-none d-lg-block">
-        <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/team/saul2.jpg" alt="">
+        <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/team/3.png" alt="">
       </span>
     </a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -49,12 +49,6 @@
         <li class="nav-item">
           <a class="nav-link js-scroll-trigger" href="#skills">Habilidades</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link js-scroll-trigger" href="#interests">Intereses</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link js-scroll-trigger" href="#awards">Cursos</a>
-        </li>
       </ul>
     </div>
   </nav>
@@ -63,18 +57,18 @@
 
     <section class="resume-section p-0 p-lg-5 d-flex align-items-center" id="about">
       <div class="w-100">
-        <h1 class="mb-0">Saúl
-          <span class="text-primary">Laínez</span>
+        <h1 class="mb-0">Gerardo
+          <span class="text-primary">Méndez</span>
         </h1>
-        <div class="subheading mb-5">Barrio El Bosque, calle Álvaro Gil, Sendero la Hermita, casa #813 ·
-          <a href="mailto:saullainez@hotmail.es">saullainez@hotmail.es</a>
+        <div class="subheading mb-5">Col. Centroamericana, Comayagüela. ·
+          <a href="mailto:gmendez.hn@hotmail.com">gmendez.hn@hotmail.com</a>
         </div>
         <!--<p class="lead mb-5">I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.</p>-->
         <div class="social-icons">
           <!--<a href="#">
             <i class="fab fa-linkedin-in"></i>
           </a>-->
-          <a href="https://github.com/saullainez">
+          <a href="https://github.com/DevDrago">
             <i class="fab fa-github"></i>
           </a>
           <!--<a href="#">
@@ -96,84 +90,169 @@
         <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
           <div class="resume-content">
             <h3 class="mb-0">Analista programador</h3>
-            <div class="subheading mb-3">Sociedad para la Cooperación y el Desarrollo Internacional (Socodevi)</div>
-            <p>Adaptar software ya existente para poder implementar y gestionar el Fondo de Garantías del programa.<br><b>Funciones desempeñadas:</b>
-            <br>Planificar, monitorear y realizar las programaciones necesitadas para la puesta en marcha del sistema de información.
-            <br>Consultar la estructura de datos y el flujo de procesos vinculados con el nuevo software a realizar y con el sistema informático ya existente.
-            <br>Identificar las diferencias entre el flujo de procesos del nuevo software y el software ya existente.
-            <br>Determinar los cambios a realizar y planificar la realización de estos cambios.
-            <br>Participar en reuniones de programación y seguimiento.
-            <br>Realizar las pruebas técnicas y pruebas oficiales de funcionamiento.
-            <br>Ofrecer el soporte técnico al equipo de SOCODEVI.
-            <br>Documentación del trabajo realizado.
-            <br><b>Tecnologías utilizadas:</b>
-            <br>AngularJS.
-            <br>Laravel.
-            <br>PostgreSQL.
-            </p>
+            <div class="subheading mb-3">Secretaría Ejecutiva de Administración y Finanzas (SEAF UNAH)</div>
+            <p>Desarrollo de aplicaciones y reportes del sistema interno de contabilidad. Soporte al mismo sistema.</p>
+            <b>Funciones desempeñadas:</b>
+            <ul>
+              <li>Desarrollo de procesos, mantenimientos, consultas y reportes dentro de los distintos módulos del sistema CALLIDUS.</li>
+              <li>Modificación y creación de algunas tablas de la base de datos general de la empresa (Oracle 10g).</li>
+              <li>Solución de problemas presentados por los usuarios en el sistema CALLIDUS, mismos que se generan por fallas en el aplicativo existente.</li>
+            </ul>
+            <b>Tecnologías utilizadas:</b>
+            <ul>
+              <li>Oracle 10g.</li>
+              <li>Oracle forms.</li>
+              <li>Oracle reports.</li>
+              <li>Toad for Oracle.</li>
+              <li>Webservice (SOAP).</li>
+            </ul>
           </div>
           <div class="resume-date text-md-right">
-            <span class="text-primary">Noviembre 2019 - Actualmente</span>
+            <span class="text-primary">Enero 2020 - Actualmente</span>
           </div>
         </div>
         
         <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
           <div class="resume-content">
-            <h3 class="mb-0">Analista programador</h3>
-            <div class="subheading mb-3">Go Consultores</div>
-            <p>Práctica profesional para optar al título de Ingeniero en Sistemas.<br><b>Funciones desempeñadas:</b>
-            <br>Análisis y diseño de proyectos y base de datos.
-            <br>Desarrollo de Backend para proyectos web.
-            <br>Desarrollo Frontend en herramienta DevExtreme.
-            <br>Desarrollo de Endpoints con respuestas JSON para interacción con Backend.
-            <br>Pruebas funcionales y no funcionales de los proyectos.
-            <br>Documentación de trabajo realizado.
-            <br><b>Tecnologías utilizadas:</b>
-            <br>ASP.Net Core
-            <br>JQuery, DevExtreme
-            <br>Oracle
-            </p>
+            <h3 class="mb-0">Desarrollador web</h3>
+            <div class="subheading mb-3">Publicidad Garnier (BBDO Honduras)</div>
+            <p>Desarrollo y soporte a sitios web y aplicaciones.</p>
+            <b>Funciones desempeñadas:</b>
+            <ul>
+              <li>Desarrollo de aplicaciones web</li>
+              <li>Diseño y maquetado de páginas web</li>
+              <li>Manejo del servidor de hosting y administrador de dominios</li>
+              <li>Presentación de proyectos y soporte a sitios/aplicaciones web en general</li>
+            </ul>
+            <b>Tecnologías utilizadas:</b>
+            <ul>
+              <li>Laravel</li>
+              <li>MySQL</li>
+              <li>HTML5, JS, CSS3</li>
+              <li>Adobe CC</li>
+              <li>cPanel, WHM, SSH</li>
+              <li>Wordpress, OctoberCMS</li>
+            </ul>
           </div>
           <div class="resume-date text-md-right">
-            <span class="text-primary">Marzo 2019 - Agosto 2019</span>
+            <span class="text-primary">Junio 2017 - Octubre 2018</span>
+          </div>
+        </div>
+        
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+          <div class="resume-content">
+            <h3 class="mb-0">Asesor Telefónico</h3>
+            <div class="subheading mb-3">Servicios de Comunicaciones de Honduras S.A. (SERCOM - CLARO)</div>
+            <p>Asesor telefónico de servicio al cliente, primero para clientes corporativos de telefonía celular 
+            y luego para clientes corporativos de enlace de datos.</p>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">Abril 2014 - Junio 2016</span>
           </div>
         </div>
         
         <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
           <div class="resume-content">
             <h3 class="mb-0">Programador</h3>
-            <div class="subheading mb-3">Proyectos personales y de Universidad</div>
-            <p>Proyecto para la clase de desarrollo web en la UNAH. El sistema es una plataforma que permite a los usuarios crear proyectos de desarrollo web del lado del cliente. <br><b>Módulos desarrollados:</b>
-            <br>Landing page.
-            <br>Login y registro de usuarios.
-            <br>Creación de carpetas para organizar proyectos.
-            <br>Creación de proyectos y archivos.
-            <br>Aspectos técnicos:
-            <br>Aplicación web full responsive, utilizando el framework mdbootstrap.
-            <br><b>Gestor de base de datos utilizado:</b> MySQL.
-            <br><b>Lenguaje de programación del lado del cliente:</b> JavaScript, framework JQuery, todas las transacciones entre el cliente y el servidor se realizaron de manera asíncrona, usando peticiones AJAX y JSON.
-            <br><b>Lenguaje de programación del lado del servidor:</b> NodeJS (JavaScript), framework express.
-            </p>
+            <div class="subheading mb-3">Comisionado Nacional de los Derechos Humanos (CONADEH)</div>
+            <p>Consultoría para el desarrollo de sistemas de propósito específico para la gestión y registro de quejas a nivel nacional.</p>
+            <b>Proyectos:</b>
+            <ul>
+              <li>Desarrollo de sistema gerencial para recepción de quejas.</li>
+              <li>Desarrollo de sistema de resultados electorales y mapeo para las elecciones primarias 2012.</li>
+            </ul>
+            <b>Tecnologías utilizadas:</b>
+            <ul>
+              <li>C#</li>
+              <li>HTML5, JS, CSS3</li>
+            </ul>
           </div>
           <div class="resume-date text-md-right">
-            <span class="text-primary">Noviembre 2018 - Diciembre 2018</span>
+            <span class="text-primary">Julio 2012 - Diciembre 2012</span>
           </div>
         </div>
-        
+
         <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
           <div class="resume-content">
-            <h3 class="mb-0">Programador</h3>
-            <div class="subheading mb-3">Ingenio Digital</div>
-            <p>Creación de sitios web desde cero, utilizando Wordpress como herramienta.<br>Mantenimiento y actualización de sitios web creados con Wordpress.
-            <br>Adaptación de plantillas Wordpress a las necesidades de los clientes utilizando JavaScript como lenguaje de programación del lado del cliente.
-            <br>Creación, mantenimiento y actualización de E-commerce desarrolladas con Wordpress.
-            <br>Administración de hosting para distintos clientes (bases de datos, creación de correos electrónicos, ancho de banda).
-            <br>Mudar sitios web de un servidor a otro.
-            <br>Instalar certificados SSL.
-            <br>Creación de API para conectarse con el Procesador de Lenguaje Natural “Wit AI”.</p>
+            <h3 class="mb-0">Asistente administrativo</h3>
+            <div class="subheading mb-3">Secretaría de Salud Pública</div>
+            <p>Soporte técnico general para el área de UPEG, gestión de aplicativos y mantenimiento preventivo de equipos del área.</p>
+            <b>Proyectos:</b>
+            <ul>
+              <li>Desarrollo de aplicativo para el control de personal de la Secretaria de Salud, implementación en regiones sanitarias, capacitación y demostración de uso.</li>
+              <li>Comprobación del Sistema MAPSALUD, funcionamiento, instalación del sistema en el server web de la institución y un informe sobre funcionamiento del sistema, pre-indicaciones de cambios para consultoría en mejoramiento del mismo.</li>
+              <li>Consolidación de bases de datos de RAMNI.</li>
+              <li>Gestión de base de datos de personal permanente y contrato de Secretaria de Salud.</li>
+            </ul>
+            <b>Tecnologías utilizadas:</b>
+            <ul>
+              <li>C#</li>
+              <li>PHP</li>
+              <li>HTML, JS, CSS2</li>
+              <li>Microsoft Office</li>
+              <li>API Google Maps</li>
+              <li>Sistemas internos de gestión</li>
+            </ul>
           </div>
           <div class="resume-date text-md-right">
-            <span class="text-primary">Noviembre 2017 - Septiembre 2018</span>
+            <span class="text-primary">Mayo 2010 - Junio 2012</span>
+          </div>
+        </div>
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+          <div class="resume-content">
+            <h3 class="mb-0">Soporte técnico</h3>
+            <div class="subheading mb-3">Sistemas C&C S.A. de C.V.</div>
+            <p>Soporte técnico de planta y trabajo en proyectos outsourcing de la empresa</p>
+            <b>Proyectos:</b>
+            <ul>
+              <li>Instalación de ambiente y cambio de equipo de cómputo en las sucursales de Banco FICOHSA zona centro-sur.</li>
+              <li>Digitalización de archivos en Banco FICOHSA, La Merced, Tegucigalpa M.D.C.</li>
+              <li>Soporte técnico en las sucursales de Banco UNO y Banco Cuscatlán zona centro-sur.</li>
+              <li>Mantenimiento preventivo en las sucursales de Banco Cuscatlán zona centro.</li>
+              <li>Mantenimiento preventivo en las oficinas de Seguros Cuscatlán, Tegucigalpa M.D.C.</li>
+              <li>Mantenimiento preventivo en las oficinas de la Iglesia de Dios de los Santos de los Últimos Días zona centro.</li>
+            </ul>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">Abril 2008 - Julio 2008</span>
+          </div>
+        </div>
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+          <div class="resume-content">
+            <h3 class="mb-0">Desarrollador web/Administrador de proyectos</h3>
+            <div class="subheading mb-3">Proyectos independientes</div>
+            <p>Desarrollo, soporte y mantenimiento a sitios y aplicaciones web.</p>
+            <b>Proyectos:</b>
+            <ul>
+              <li>Aplicación para votaciones: Sentí La Vida, CR.</li>
+              <li>Sitio informativo: Ekono Teens, CR.</li>
+              <li>Sitio informativo: El mejor internet, CR</li>
+              <li>Sitio informativo: Planeta valiente, CR</li>
+              <li>Sitio informativo: Yoga Summit Copán</li>
+              <li>Trabajo de mantenimiento y desarrollo para agencia BBDO Honduras</li>
+              <li>Aplicación de fidelización: Valvoline Conoce</li>
+              <li>Aplicación de fidelización: Promo Valvoline CR</li>
+              <li>Aplicación de fidelización: Promo Valvoline HN</li>
+              <li>Aplicación de fidelización y votaciones: Los duendes de la Meganavidad</li>
+              <li>Desarrollo de sistema de reclutamiento.</li>
+              <li>Desarrollo de sistema de fidelidad.</li>
+            </ul>
+            <b>Tecnologías utilizadas:</b>
+            <ul>
+              <li>Laravel</li>
+              <li>MySQL</li>
+              <li>HTML5, JS, CSS3</li>
+              <li>Adobe CC</li>
+              <li>cPanel, WHM, SSH</li>
+              <li>Wordpress, Drupal</li>
+              <li>AJAX</li>
+              <li>JSON</li>
+            </ul>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">Junio 2017 - Octubre 2018</span>
           </div>
         </div>
 
@@ -193,26 +272,15 @@
             <div class="subheading mb-3">Ingeniería en Sistemas</div>
           </div>
           <div class="resume-date text-md-right">
-            <span class="text-primary">2010 - 2019</span>
+            <span class="text-primary">2011 - 2020</span>
           </div>
         </div>
         
         <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
           <div class="resume-content">
-            <h3 class="mb-0">Instituto Alfonso Guillén Zelaya – Tegucigalpa, Honduras</h3>
+            <h3 class="mb-0">Instituto IMTIAM – Tegucigalpa, Honduras</h3>
             <div class="subheading mb-3">1ero a 3er curso de Bachillerato Técnico en Computación</div>
             <p>Bachiller en Ciencias y Letras y Técnico en Computación.</p>
-          </div>
-          <div class="resume-date text-md-right">
-            <span class="text-primary">2007 - 2009</span>
-          </div>
-        </div>
-        
-        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
-          <div class="resume-content">
-            <h3 class="mb-0">Instituto Alfonso Guillén Zelaya – Tegucigalpa, Honduras</h3>
-            <div class="subheading mb-3">1ero a 3er curso de CCCG.</div>
-            <p>Educación secundaria</p>
           </div>
           <div class="resume-date text-md-right">
             <span class="text-primary">2004 - 2006</span>
@@ -221,9 +289,9 @@
         
         <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
           <div class="resume-content">
-            <h3 class="mb-0">Escuela Francisco Morazán – Tegucigalpa, Honduras</h3>
-            <div class="subheading mb-3">4to a 6to grado</div>
-            <p>Educación primaria</p>
+            <h3 class="mb-0">Centro de Educación Básica República de Costa Rica – Tegucigalpa, Honduras</h3>
+            <div class="subheading mb-3">1ero a 3er curso de ciclo básico.</div>
+            <p>Educación secundaria</p>
           </div>
           <div class="resume-date text-md-right">
             <span class="text-primary">2001 - 2003</span>
@@ -232,12 +300,12 @@
 
         <div class="resume-item d-flex flex-column flex-md-row justify-content-between">
           <div class="resume-content">
-            <h3 class="mb-0">Escuela Freimont S.A. - Tegucigalpa, Honduras</h3>
+            <h3 class="mb-0">Escuela República de Costa Rica. - Tegucigalpa, Honduras</h3>
             <div class="subheading mb-3">1ero a 3er grado</div>
             <p>Educación primaria</p>
           </div>
           <div class="resume-date text-md-right">
-            <span class="text-primary">1998 - 2000</span>
+            <span class="text-primary">1995 - 2000</span>
           </div>
         </div>
 
@@ -271,9 +339,6 @@
             <i class="fab fa-node-js"></i>
           </li>
           <li class="list-inline-item">
-            <i class="fab fa-sass"></i>
-          </li>
-          <li class="list-inline-item">
             <i class="fab fa-mdb"></i>
           </li>
           <li class="list-inline-item">
@@ -288,6 +353,22 @@
           <li class="list-inline-item">
             <i class="fab fa-npm"></i>
           </li>
+
+          <li class="list-inline-item">
+            <i class="fab fa-adobe"></i>
+          </li>
+          <li class="list-inline-item">
+            <i class="fab fa-cpanel"></i>
+          </li>
+          <li class="list-inline-item">
+            <i class="fab fa-whmcs"></i>
+          </li>
+          <li class="list-inline-item">
+            <i class="fab fa-php"></i>
+          </li>
+          <li class="list-inline-item">
+            <i class="fab fa-drupal"></i> 
+          </li>
         </ul>
 
         <div class="subheading mb-3">Flujo de trabajo</div>
@@ -297,14 +378,14 @@
             Diseño responsivo</li>
           <li>
             <i class="fa-li fa fa-check"></i>
-            Pruebas y Debugging</li>
+            Pruebas y debugging</li>
           <li>
             <i class="fa-li fa fa-check"></i>
             Scrum</li>
           <li>
             <i class="fa-li fa fa-check"></i>
             Arquitectura de software MVC.</li>
-            <li>
+          <li>
             <i class="fa-li fa fa-check"></i>
             Servicios REST.</li>
         </ul>
@@ -312,34 +393,16 @@
     </section>
 
     <hr class="m-0">
-
-    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="interests">
-      <div class="w-100">
-        <h2 class="mb-5">Intereses</h2>
-        <p>Además de las actividades de programación e ingeniería, me gusta mucho la literatura, el fútbol y la naturaleza.</p>
-        <p class="mb-0">En lo que respecta al área de la programación, me gusta estar al tanto de las nuevas tecnologías para poder aprenderlas, aplicarlar y así mantenerme actualizado.</p>
-      </div>
-    </section>
-
-    <hr class="m-0">
-
-    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="awards">
-      <div class="w-100">
-        <h2 class="mb-5">Cursos</h2>
-        <ul class="fa-ul mb-0">
-          <li>
-            <i class="fa-li fa fa-trophy text-warning"></i>
-            Crear sistemas web ASP-Net Core MVC, Entity Framework-Ajax (UDEMY)</li>
-          <li>
-            <i class="fa-li fa fa-trophy text-warning"></i>
-            Master en JavaScript: Aprender JS, JQuery, Angular, Node JS (UDEMY)</li>
-          <li>
-            <i class="fa-li fa fa-trophy text-warning"></i>
-            M001: MongoDB Basics (MongoDB University)</li>
-          
-        </ul>
-      </div>
-    </section>
+    <br>
+    <br>
+    <div class="col text-center">
+        <div class="row">
+          <div class="col text-center">
+            <a href="http://devcolective.astrolabiofinal.com" class="btn btn-info">Volver</a>
+          </div>
+        </div>
+    </div>
+    <br><br>
 
   </div>
 
