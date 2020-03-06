@@ -87,8 +87,8 @@
             <img class="img-fluid" src="img/portfolio/01-thumbnail.jpg" alt="">
           </a>
           <div class="portfolio-caption">
-            <h4>Threads</h4>
-            <p class="text-muted">Illustration</p>
+            <h4>Duendes de la Meganavidad</h4>
+            <p class="text-muted">Votaciones, Fidelidad</p>
           </div>
         </div>
         <div class="col-md-4 col-sm-6 portfolio-item">
@@ -101,8 +101,8 @@
             <img class="img-fluid" src="img/portfolio/02-thumbnail.jpg" alt="">
           </a>
           <div class="portfolio-caption">
-            <h4>Explore</h4>
-            <p class="text-muted">Graphic Design</p>
+            <h4>Promo Valvoline HN</h4>
+            <p class="text-muted">Fidelidad</p>
           </div>
         </div>
         <div class="col-md-4 col-sm-6 portfolio-item">
@@ -115,8 +115,8 @@
             <img class="img-fluid" src="img/portfolio/03-thumbnail.jpg" alt="">
           </a>
           <div class="portfolio-caption">
-            <h4>Finish</h4>
-            <p class="text-muted">Identity</p>
+            <h4>Promo Valvoline CR</h4>
+            <p class="text-muted">Fidelidad</p>
           </div>
         </div>
         <div class="col-md-4 col-sm-6 portfolio-item">
@@ -129,8 +129,8 @@
             <img class="img-fluid" src="img/portfolio/04-thumbnail.jpg" alt="">
           </a>
           <div class="portfolio-caption">
-            <h4>Lines</h4>
-            <p class="text-muted">Branding</p>
+            <h4>Valvoline Conoce</h4>
+            <p class="text-muted">Fidelidad</p>
           </div>
         </div>
         <div class="col-md-4 col-sm-6 portfolio-item">
@@ -143,8 +143,8 @@
             <img class="img-fluid" src="img/portfolio/05-thumbnail.jpg" alt="">
           </a>
           <div class="portfolio-caption">
-            <h4>Southwest</h4>
-            <p class="text-muted">Website Design</p>
+            <h4>Promociones La Colonia</h4>
+            <p class="text-muted">Informativa</p>
           </div>
         </div>
         <div class="col-md-4 col-sm-6 portfolio-item">
@@ -157,8 +157,8 @@
             <img class="img-fluid" src="img/portfolio/06-thumbnail.jpg" alt="">
           </a>
           <div class="portfolio-caption">
-            <h4>Window</h4>
-            <p class="text-muted">Photography</p>
+            <h4>Yoga Summit Copán</h4>
+            <p class="text-muted">Informativa</p>
           </div>
         </div>
       </div>
@@ -177,8 +177,8 @@
       <div class="row">
         <div class="col-sm-4">
           <div class="team-member">
-            <a style="color:#bd5d38 !important;" href="{{ route('saul') }}">
-                <img class="mx-auto rounded-circle" src="img/team/3.jpg" alt="">
+            <a style="color:#bd5d38 !important;" href="{{ route('gerardo') }}">
+                <img class="mx-auto rounded-circle" src="img/team/3.png" alt="">
                 <h4>Gerardo Méndez</h4>
             </a>
           </div>
@@ -231,18 +231,22 @@
             <div class="col-lg-8 mx-auto">
               <div class="modal-body">
                 <!-- Project Details Go Here -->
-                <h2 class="text-uppercase">Project Name</h2>
-                <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                <h2 class="text-uppercase">Duendes de la Meganavidad</h2>
+                <p class="item-intro text-muted"><a href="https://meganavidad.com">https://meganavidad.com</a></p>
                 <img class="img-fluid d-block mx-auto" src="img/portfolio/01-full.jpg" alt="">
-                <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                <p>
+                  Sistema de fidelización para recolección de facturas con las que el cliente podía, 
+                  de acuerdo a una cantidad específica de compra, canjear un duende. Al coleccionar 6 duendes se hacía
+                  acreedor de una orden de compra de manera automática. Cuenta con un administrador para ver estadísticas y generar ganadores.
+                </p>
                 <ul class="list-inline">
-                  <li>Date: January 2017</li>
-                  <li>Client: Threads</li>
-                  <li>Category: Illustration</li>
+                  <li>Año: 2019</li>
+                  <li>Cliente: Megasuper, Costa Rica</li>
+                  <li>Categoría: Votaciones, Fidelidad</li>
                 </ul>
                 <button class="btn btn-primary" data-dismiss="modal" type="button">
                   <i class="fas fa-times"></i>
-                  Close Project</button>
+                  Cerrar</button>
               </div>
             </div>
           </div>
@@ -265,18 +269,22 @@
             <div class="col-lg-8 mx-auto">
               <div class="modal-body">
                 <!-- Project Details Go Here -->
-                <h2 class="text-uppercase">Project Name</h2>
-                <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                <h2 class="text-uppercase">Promo Valvoline HN</h2>
+                <p class="item-intro text-muted"><a href="https://promovalvoline.hn">https://promovalvoline.hn</a></p>
                 <img class="img-fluid d-block mx-auto" src="img/portfolio/02-full.jpg" alt="">
-                <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                <p>
+                  Sistema de fidelización para ingreso de códigos con el objetivo de generar ganadores automáticamente.
+                  Los premios se distribuyeron por semana, de modo que, cada semana el premio era diferente. Cuenta con un
+                  administrador para ver estadísticas.
+                </p>
                 <ul class="list-inline">
-                  <li>Date: January 2017</li>
-                  <li>Client: Explore</li>
-                  <li>Category: Graphic Design</li>
+                <li>Año: 2019</li>
+                  <li>Cliente: Valvoline, Honduras</li>
+                  <li>Categoría: Fidelidad</li>
                 </ul>
                 <button class="btn btn-primary" data-dismiss="modal" type="button">
                   <i class="fas fa-times"></i>
-                  Close Project</button>
+                  Cerrar</button>
               </div>
             </div>
           </div>
