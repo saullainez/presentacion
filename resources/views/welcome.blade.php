@@ -307,18 +307,21 @@
             <div class="col-lg-8 mx-auto">
               <div class="modal-body">
                 <!-- Project Details Go Here -->
-                <h2 class="text-uppercase">Project Name</h2>
-                <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                <h2 class="text-uppercase">Promo Valvoline CR</h2>
+                <p class="item-intro text-muted"><a href="https://promovalvoline.com">https://promovalvoline.com</a></p>
                 <img class="img-fluid d-block mx-auto" src="img/portfolio/03-full.jpg" alt="">
-                <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                <p>
+                  Sistema de fidelización para ingreso de códigos con el objetivo 
+                  Cuenta con un administrador para ver estadísticas.
+                </p>
                 <ul class="list-inline">
-                  <li>Date: January 2017</li>
-                  <li>Client: Finish</li>
-                  <li>Category: Identity</li>
+                <li>Año: 2019</li>
+                  <li>Cliente: Valvoline, Costa Rica</li>
+                  <li>Categoría: Fidelidad</li>
                 </ul>
                 <button class="btn btn-primary" data-dismiss="modal" type="button">
                   <i class="fas fa-times"></i>
-                  Close Project</button>
+                  Cerrar</button>
               </div>
             </div>
           </div>
