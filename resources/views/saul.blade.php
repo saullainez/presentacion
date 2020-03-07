@@ -253,40 +253,58 @@
         <div class="subheading mb-3">Lenguajes de programación y herramientas</div>
         <ul class="list-inline dev-icons">
           <li class="list-inline-item">
-            <i class="fab fa-html5"></i>
+            <i data-toggle="tooltip" data-placement="top" title="HTML5" class="fab fa-html5"></i>
           </li>
           <li class="list-inline-item">
-            <i class="fab fa-css3-alt"></i>
+            <i data-toggle="tooltip" data-placement="top" title="CSS3" class="fab fa-css3-alt"></i>
           </li>
           <li class="list-inline-item">
-            <i class="fab fa-js-square"></i>
+            <i data-toggle="tooltip" data-placement="top" title="Javascript" class="fab fa-js-square"></i>
           </li>
           <li class="list-inline-item">
-            <i class="fab fa-angular"></i>
+            <i data-toggle="tooltip" data-placement="top" title="AngularJS" class="fab fa-angular"></i>
           </li>
           <li class="list-inline-item">
-            <i class="fab fa-bootstrap"></i>
+            <i data-toggle="tooltip" data-placement="top" title="Bootstrap" class="fab fa-bootstrap"></i>
           </li>
           <li class="list-inline-item">
-            <i class="fab fa-node-js"></i>
+            <i data-toggle="tooltip" data-placement="top" title="NodeJS" class="fab fa-node-js"></i>
           </li>
           <li class="list-inline-item">
-            <i class="fab fa-sass"></i>
+            <i data-toggle="tooltip" data-placement="top" title="Sass" class="fab fa-sass"></i>
           </li>
           <li class="list-inline-item">
-            <i class="fab fa-mdb"></i>
+            <i data-toggle="tooltip" data-placement="top" title="MDBootstrap" class="fab fa-mdb"></i>
           </li>
           <li class="list-inline-item">
-            <i class="fab fa-wordpress"></i>
+            <i data-toggle="tooltip" data-placement="top" title="Wordpress" class="fab fa-wordpress"></i>
           </li>
           <li class="list-inline-item">
-            <i class="fab fa-vuejs"></i>
+            <i data-toggle="tooltip" data-placement="top" title="VueJS" class="fab fa-vuejs"></i>
           </li>
           <li class="list-inline-item">
-            <i class="fab fa-laravel"></i>
+            <i data-toggle="tooltip" data-placement="top" title="Laravel" class="fab fa-laravel"></i>
           </li>
           <li class="list-inline-item">
-            <i class="fab fa-npm"></i>
+            <i data-toggle="tooltip" data-placement="top" title="npm" class="fab fa-npm"></i>
+          </li>
+          <li class="list-inline-item">
+            <i data-toggle="tooltip" data-placement="top" title="Python" class="fab fa-python"></i>
+          </li>
+          <li class="list-inline-item">
+            <i data-toggle="tooltip" data-placement="top" title="SQL" class="fas fa-database"></i>
+          </li>
+          <li class="list-inline-item">
+            <i data-toggle="tooltip" data-placement="top" title="Jira" class="fab fa-jira"></i>
+          </li>
+          <li class="list-inline-item">
+            <i data-toggle="tooltip" data-placement="top" title="Github" class="fab fa-github"></i>
+          </li>
+          <li class="list-inline-item">
+            <i data-toggle="tooltip" data-placement="top" title="Gitlab" class="fab fa-gitlab"></i>
+          </li>
+          <li class="list-inline-item">
+            <i data-toggle="tooltip" data-placement="top" title="PHP" class="fab fa-php"></i>
           </li>
         </ul>
 
@@ -340,6 +358,17 @@
         </ul>
       </div>
     </section>
+    <hr class="m-0">
+    <br>
+    <br>
+    <div class="col text-center">
+        <div class="row">
+          <div class="col text-center">
+            <a href="http://devcolective.astrolabiofinal.com" class="btn btn-info">Volver</a>
+          </div>
+        </div>
+    </div>
+    <br><br>
 
   </div>
 

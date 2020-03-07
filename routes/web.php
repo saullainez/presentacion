@@ -19,6 +19,9 @@ Route::get('/', function () {
 Route::get('saul', function () {
     return view('saul');
 })->name('saul');
+Route::get('camarena', function () {
+    return view('camarena');
+})->name('camarena');
 Route::get('gerardo', function () {
     return view('gerardo');
 })->name('gerardo');
